@@ -108,8 +108,17 @@ This project was a great opportunity to deepen my skills in cross-platform mobil
 
 💬 I'd love to connect with others working on similar tech or educational apps. Let’s exchange ideas and feedback!
 
-
 ## Getting Started
+
+How to exicuted the project :
+1.Extract the Zip file 
+2.Open in Vscode
+3.Open lib file in project file locate to main.dart file and open new Terminal 
+4.Enter this command--> "flutter pub get",this command download or update the all flutter dependences into this project
+5.Then Run the project using this command -->  "flutter run" ,choose your devices shown and press enter  
+
+!You must have flutter,android studio and dart language plugin's in android studio and also vscode or other IDE's 
+
 
 This project is a starting point for a Flutter application.
 
