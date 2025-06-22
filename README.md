@@ -28,41 +28,43 @@ Google Firebase: Integrated for real-time databases, authentication, and other b
 Clean Architecture with State Management: Employing best practices for maintainable, testable, and scalable code.
 Screenshots
 (It's highly recommended to add screenshots or even a short GIF/video demo here to quickly showcase your app's appearance and functionality. Replace the placeholders below.)
-                                                      Home Screen
+
+  Home Screen
                                                       
 ![WhatsApp Image 2025-06-22 at 20 47 15_fbbad56c](https://github.com/user-attachments/assets/61728792-4ee9-467a-a545-f30ed0d0f697)
 
-                                                  University Gallery
+   University Gallery
                                                   
 ![WhatsApp Image 2025-06-22 at 20 47 15_7f90eaba](https://github.com/user-attachments/assets/d2dd725a-253f-40d5-8b2f-683ab9126f55)
 
-                                                 Placements & Training
+  Placements & Training
                                                  
 ![WhatsApp Image 2025-06-22 at 20 47 18_802567e3](https://github.com/user-attachments/assets/dc3e4c5f-b529-4a6e-99d1-e97f17661515)
 
-                                                    Dashboard Screen
+   Dashboard Screen
                                                     
 ![WhatsApp Image 2025-06-22 at 20 47 14_bb927eed](https://github.com/user-attachments/assets/a8c93538-f5e9-4273-8540-0b55bef3a445)
 
-                                                    Campus life screen
+   Campus life screen
                                                     
 ![WhatsApp Image 2025-06-22 at 20 47 18_ab568494](https://github.com/user-attachments/assets/db35028b-aa9c-4664-a4ca-bea204688069)
 
-                                      Campus Info
+ Campus Info
                                       
 ![image](https://github.com/user-attachments/assets/157ff808-729a-4411-b519-ea28b7c069b6)
 
-                                                        Admission Form
+   Admission Form
                                                         
 ![WhatsApp Image 2025-06-22 at 20 47 16_81108d96](https://github.com/user-attachments/assets/855df57b-6434-4ad0-95fe-e87b03975a2e)
 
-                                                       GGU University
+  GGU University
                                                        
 ![WhatsApp Image 2025-06-22 at 20 47 17_58fd10a5](https://github.com/user-attachments/assets/863bd74c-239d-44f8-91e6-9aa981b825cb)
 
-                                                      App Icon in Mobile
+  App Icon in Mobile
                                                       
 ![WhatsApp Image 2025-06-22 at 20 54 43_2448b6cf](https://github.com/user-attachments/assets/6f19a2a4-5d4a-4c76-af5a-02ef6bed87d4)
+
 
 
 
